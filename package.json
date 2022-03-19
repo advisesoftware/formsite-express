@@ -1,7 +1,7 @@
 {
   "name": "FormSite",
   "version": "1.0.0",
-  "description": "Form Site By WhiskyDev",
+  "description": "Form Site By WhiskyDev & AdviseGROUP",
   "main": "server.js",
   "dependencies": {
     "nodemon": "^2.0.15",
@@ -24,6 +24,6 @@
   "keywords": [
     "form"
   ],
-  "author": "whiskydev11",
-  "license": "ISC"
+  "author": "whiskydev11 & AdviseSoftware",
+  "license": "MIT"
 }
